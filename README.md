@@ -1,15 +1,15 @@
 # Hi, I'm Tshepo 👋
 
-Builder focused on modern .NET systems, infrastructure, and developer workflow acceleration.
+Senior Backend Engineer building modern .NET systems and developer tooling.
 
-I take projects from concept to production — end to end.
+I focus on creating software that removes friction, improves workflows, and contributes meaningfully to the teams and ecosystems I work in.
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Work
 
 ### 🧩 Dotnet Generator
-VS Code workflow accelerator for .NET development.
+A VS Code extension that accelerates .NET workflows.
 
 - Service + interface generation  
 - Automatic DI registration in `Program.cs`  
@@ -17,43 +17,38 @@ VS Code workflow accelerator for .NET development.
 - Multi-project namespace resolution  
 
 🔗 Marketplace  
-https://marketplace.visualstudio.com/items?itemName=TshepoSet.vscode-dotnet-class-generator
+https://marketplace.visualstudio.com/items?itemName=TshepoSet.vscode-dotnet-class-generator  
 
 🔗 GitHub  
-https://github.com/TshepoSet/vscode-dotnet-generator
+https://github.com/TshepoSet/vscode-dotnet-generator  
 
 ---
 
 ### 🏗 Local Platform Infrastructure
-Local-first infrastructure platform for development environments.
+Infrastructure setup designed for reproducible, structured development environments.
 
-- Structured infrastructure setup
-- Reproducible local environments
-- Clean documentation and licensing
-- Built for real-world workflow reliability
+- Clear architecture  
+- Lifecycle ownership  
+- Clean documentation and licensing  
 
 🔗 GitHub  
-https://github.com/TshepoSet/local_platform_infra
+https://github.com/TshepoSet/local_platform_infra  
 
 ---
 
 ## 🛠 Focus Areas
 
 - .NET backend architecture  
-- Infrastructure automation  
-- Developer productivity tools  
-- System design & workflow engineering  
+- Infrastructure & automation  
+- Clean and modular system design  
+- Developer productivity tooling  
 
 ---
 
 ## 🎯 Philosophy
 
-Build tools that remove friction.
+Build with intent.  
+Ship completely.  
+Contribute meaningfully.  
 
-Ship.  
-Document properly.  
-Own the full lifecycle.  
-
----
-
-Currently building systems that prioritize clarity, reproducibility, and execution.
+Software should make work better — not heavier.
