@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Tshepo 👋
 
-<!--
-**TshepoSet/TshepoSet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder focused on modern .NET systems, developer tooling, and workflow acceleration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🧩 Dotnet Generator
+Workflow accelerators for modern .NET development in VS Code.
+
+Removes repetitive scaffolding like:
+- Service + interface generation
+- Automatic DI registration
+- Constructor generation from readonly fields
+- Multi-project namespace resolution
+
+🔗 Marketplace:
+https://marketplace.visualstudio.com/items?itemName=TshepoSet.vscode-dotnet-class-generator
+
+🔗 GitHub:
+https://github.com/TshepoSet/vscode-dotnet-generator
+
+---
+
+## 🛠 Focus Areas
+
+- .NET backend systems
+- Developer productivity tools
+- SaaS architecture
+- Workflow automation
+
+---
+
+Currently building tools that remove friction from real-world development.
